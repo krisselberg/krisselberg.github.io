@@ -3510,3 +3510,46 @@ input, select, textarea {
 			}
 
 	}
+/* Top Navigation Bar */
+	.topnav {
+	overflow: hidden;
+	background-color: #4361c2;
+ 	}
+  
+ 	.topnav a {
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+ 	}
+  
+ 	.topnav a:hover {
+	background-color: #ddd;
+	color: black;
+ 	}
+  
+  	.topnav a.active {
+	background-color: #0000CD;
+	color: white;
+	}
+
+/* Project */
+	.project {
+		text-align: center;
+		width: 100%;
+	}
+
+	.project img {
+		margin: 1%;
+		width: 45%;
+	}
+
+/* Center */
+	.center {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
+	}
