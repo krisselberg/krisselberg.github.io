@@ -20,7 +20,7 @@
 
 title: Kris Selberg's Blog
 description: >- # this means to ignore newlines until "baseurl:"
-  Writings about programming and ambition
+  Thoughts about backend engineering and ambition
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: selberg_kris
