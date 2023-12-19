@@ -15,7 +15,7 @@ I used to be obsessively focused on content creation with my TikTok profile of 1
 - I have more opportunities to make an impact in programming
 - I procrastinated content creation with programming
 - I enjoy solitude more than the spotlight
-- I don't like half-assing goals by setting more than one
+- I don't like half-assing career goals by setting more than one
 
 ### I prefer waking up early
 
