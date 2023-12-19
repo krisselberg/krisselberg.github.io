@@ -28,7 +28,7 @@ I started off by recruiting my friend [Jasper Levy](https://github.com/jaslevy) 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/4BjLPnus9k8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <div align="center">
-    <em>Caption: Jasper getting confused for the celebrity TikTok star <a src="https://www.tiktok.com/@huddy?lang=en">"Lil Huddy"</a></em>
+    <em>Caption: Jasper getting confused for the celebrity TikTok star <a href="https://www.tiktok.com/@huddy?lang=en">"Lil Huddy"</a></em>
 </div>
 
 However, I didn't want to leave my computer in some random room while the program ran, so I attempted to get it running headless on a Raspberry Pi. There were many challenges along the way. The first Raspberry Pi I got was a knockoff, so I wasn't able to connect it to a display (spent hours troubleshooting SD cards, external monitors, and the power source before getting to the inevitable step of finding another Raspberry Pi to test with). I started off working on getting the device to automatically connect to a bluetooth speaker with bluetoothctl. Then, I moved the files to my Raspberry Pi using Google Drive. Looking back, a quicker way to do this would be to SSH into the Raspberry Pi and use sch to transfer files (this is what I do now when I want to add a newly trained SVM model).
