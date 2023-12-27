@@ -6,16 +6,17 @@ permalink: /about/
 
 ## Me in 10 Minutes
 
+While I recognize that growth and experience might reshape my perspectives, here's a snapshot of who I am as of December 27, 2023:
+
 ### I'm obsessively focused on coding
 
 Over my voluntary leave of absence from Princeton, I realized that I love coding and the better I get at it, the more I love it. This can be anything from API design, picking apart the internals of how a DB works, creating a full-stack web app for users, or making an ML model that detects my friends' faces. The more I master this craft, the more joy I get from my work.
 
-I used to be obsessively focused on content creation with my TikTok profile of 165k+ followers and my attempts at growing a YouTube channel. Multiple incentives got me to change direction and put all my eggs in the programming basket:
+I used to be obsessively focused on content creation with a TikTok profile of 150k+ followers and my attempts at growing a YouTube channel. Multiple incentives got me to change direction and put all my eggs in the programming basket:
 
-- I have more opportunities to make an impact in programming
-- I procrastinated content creation with programming
+- I don't like half-assing career goals by setting more than one at a time
+- I liked programming more than content creation
 - I enjoy solitude more than the spotlight
-- I don't like half-assing career goals by setting more than one
 
 ### I prefer waking up early
 
