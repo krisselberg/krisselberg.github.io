@@ -37,7 +37,7 @@ The feedback was amazing. Participants loved the interactive aspect of AR and fo
 
 We're excited about the potential of AR in education, especially for subjects like math that can benefit from visual and interactive learning tools. Our next steps? Exploring more user-friendly features and maybe even looking into voice commands or gesture controls.
 
-### Big Thanks!
+### Thank you!
 
 Shoutout to our mentors and professors who guided us through this journey. Your insights and support were invaluable!
 
