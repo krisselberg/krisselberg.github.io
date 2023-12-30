@@ -2,7 +2,7 @@
 key: blog
 title: Pi Face Jukebox
 showcaseImage: ./pifacejukebox.png
-date: "2023-12-18T0:51:03.284Z"
+date: "2023-12-18T12:00:00.000Z"
 excerpt: "A RaspberryPi program that plays theme songs based on recognized faces"
 ---
 

@@ -1,8 +1,8 @@
 ---
 key: blog
 title: LLM Princeton Student Search
-date: "2023-12-26T0:51:03.284Z"
-excerpt: "An NLP interface for OpenSearch to manage a database of Princeton University students and their contact information, integrating GPT-4 for query translation."
+date: "2023-12-26T12:00:00.000Z"
+excerpt: "An NLP interface for OpenSearch to manage a database of Princeton University students and their contact information, integrating GPT-4 for query translation"
 ---
 
 <div align="center">
